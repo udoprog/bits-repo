@@ -1,0 +1,9 @@
+:provided_by:
+  :apt:
+    :compiled: true
+  :portage:
+    :compiled: true
+    :atom: dev-lang/python
+  :homebrew:
+    :compiled: true
+    :atom: python

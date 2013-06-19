@@ -1,0 +1,15 @@
+:depends:
+  - :atom: python
+
+:provided_by:
+  :python:
+    :atom: setuptools
+  :apt:
+    :atom: python-setuptools
+    :compiled: true
+  :portage:
+    :atom: dev-python/setuptools
+    :compiled: true
+
+:provided_for:
+  :homebrew: python

@@ -1,0 +1,11 @@
+:depends:
+  - :atom: python
+
+:provided_by:
+  :python:
+    :atom: pip
+  :apt:
+    :atom: python-pip
+    :compiled: true
+  :portage:
+    :atom: dev-python/pip
