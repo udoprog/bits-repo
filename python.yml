@@ -5,5 +5,4 @@
     :compiled: true
     :atom: dev-lang/python
   :homebrew:
-    :compiled: true
     :atom: python
