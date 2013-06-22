@@ -1,0 +1,9 @@
+:depends:
+  - :atom: ruby
+
+:provided_by:
+  :rubygems:
+    :atom: highline
+  :apt:
+    :atom: libhighline-ruby
+    :compiled: true
